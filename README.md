@@ -32,13 +32,13 @@ The model is set to execute on MPS/GPU/CPU
 
 
 ## Model Accuracy and Loss
-The model consistenly reached and accuracy of 99.40% on test set.
+The model consistenly reached and accuracy of 85.16% on test set.
 The loss function used here was negative log liklihood loss.
 
 ## Model specs
-* Total number of final trainable model parameters = 7654
+* Total number of final trainable model parameters = 144,576
 * Total number of non-trainable model parameters = 0
-* Model Size = 0.83 MB
+
 
 ## Authors
 
